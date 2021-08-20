@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b376bed4-fe6b-4233-be4a-7cfa4ffb27ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tetsMaven" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wx9Y4cyErz28dh3ODhyWZGEnDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="homework_lesson_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="homework_lesson_02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="homework_lesson_02" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b376bed4-fe6b-4233-be4a-7cfa4ffb27ba" name="Default Changelist" comment="" />
+      <created>1629389416475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629389416475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2043" y="73" key="#Application" timestamp="1629484879866">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state x="2043" y="73" key="#Application/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629484879866" />
+    <state x="1753" y="-110" key="#Project_Structure" timestamp="1629464951815">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738/1366.-148.1920.1050@0.0.1366.738" timestamp="1629389488138" />
+    <state x="1753" y="-110" key="#Project_Structure/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629464951815" />
+    <state x="2131" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1629465315519">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state x="2131" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629465315519" />
+    <state width="1877" height="434" key="GridCell.Tab.0.bottom" timestamp="1629484885849">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629484885849" />
+    <state width="1877" height="434" key="GridCell.Tab.0.center" timestamp="1629484885849">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.center/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629484885849" />
+    <state width="1877" height="434" key="GridCell.Tab.0.left" timestamp="1629484885849">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.left/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629484885849" />
+    <state width="1877" height="434" key="GridCell.Tab.0.right" timestamp="1629484885849">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.0.right/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629484885849" />
+    <state x="1722" y="30" key="SettingsEditor" timestamp="1629467446749">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state x="1722" y="30" key="SettingsEditor/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629467446749" />
+    <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1629389423956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-148.1920.1050@0.0.1366.738" timestamp="1629389423956" />
+    <state x="1982" y="169" key="run.anything.popup" timestamp="1629478454808">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state x="1982" y="169" key="run.anything.popup/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629478454808" />
+    <state x="1989" y="79" width="672" height="678" key="search.everywhere.popup" timestamp="1629467414728">
+      <screen x="1366" y="-148" width="1920" height="1050" />
+    </state>
+    <state x="1989" y="79" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.-148.1920.1050@1366.-148.1920.1050" timestamp="1629467414728" />
+  </component>
+</project>
